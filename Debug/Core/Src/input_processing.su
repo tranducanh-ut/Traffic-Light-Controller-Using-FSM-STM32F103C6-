@@ -1,0 +1,5 @@
+input_processing.c:48:6:fsm_for_input_processing	8	static
+input_processing.c:107:6:fsm_for_modify_button	8	static
+input_processing.c:146:6:fsm_for_mode2_red_modify	8	static
+input_processing.c:160:6:fsm_for_mode3_amber_modify	8	static
+input_processing.c:172:6:fsm_for_mode4_green_modify	8	static
