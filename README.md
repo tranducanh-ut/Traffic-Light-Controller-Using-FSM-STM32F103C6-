@@ -58,7 +58,7 @@ Transitions occur when **Timer interrupt** triggers a state timeout.
 ## 👨‍💻 Author
 **Tran Duc Anh**  
 Computer Engineering Student — HCMUT  
-Focus Areas: Embedded Systems, Digital Design, MCU Programming  
+Focus Areas: Embedded Systems, Digital Design, MCU Programming, FPGA Programming 
 
 📫 Contact:  
 - Facebook: https://www.facebook.com/anh.tran.78639  
